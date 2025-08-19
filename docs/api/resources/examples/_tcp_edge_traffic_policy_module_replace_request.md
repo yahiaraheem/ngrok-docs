@@ -9,5 +9,5 @@ curl \
 -H "Content-Type: application/json" \
 -H "Ngrok-Version: 2" \
 -d '{"enabled":true,"value":"{\"on_tcp_connect\":[{\"name\":\"Block IP\",\"expressions\":[\"conn.client_ip == '192.0.2.0'\"],\"actions\":[{\"type\":\"deny\"}]}]}"}' \
-https://api.ngrok.com/edges/tcp/edgtcp_315io9gwSNDbBq82KRvvbLJruF2/traffic_policy
+https://api.ngrok.com/edges/tcp/edgtcp_31V8uhm8PDXn4vsJG6T7cU6gPuZ/traffic_policy
 ```

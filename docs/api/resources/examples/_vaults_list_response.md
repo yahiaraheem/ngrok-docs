@@ -8,15 +8,15 @@
   "uri": "https://api.ngrok.com/vaults",
   "vaults": [
     {
-      "created_at": "2025-08-10T10:08:27Z",
-      "created_by": "usr_315igZGx6tMdhKuPUavdBSV8Y1U",
+      "created_at": "2025-08-19T10:08:24Z",
+      "created_by": "usr_31V8n550tvAdgPqRVrSxBgDgYJk",
       "description": "Production Vault",
-      "id": "vault_315ioLmpEy6WV4QStMZXZEEMSta",
-      "last_updated_by": "usr_315igZGx6tMdhKuPUavdBSV8Y1U",
+      "id": "vault_31V8usM17lqj6WXsOi0LHvoOTT2",
+      "last_updated_by": "usr_31V8n550tvAdgPqRVrSxBgDgYJk",
       "metadata": "env=prod",
       "name": "prod-vault",
-      "updated_at": "2025-08-10T10:08:27Z",
-      "uri": "https://api.ngrok.com/vaults/vault_315ioLmpEy6WV4QStMZXZEEMSta"
+      "updated_at": "2025-08-19T10:08:24Z",
+      "uri": "https://api.ngrok.com/vaults/vault_31V8usM17lqj6WXsOi0LHvoOTT2"
     }
   ]
 }

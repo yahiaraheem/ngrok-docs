@@ -6475,7 +6475,7 @@
         <a id="ERR_NGROK_4109" href="/docs/errors/err_ngrok_4109">ERR_NGROK_4109</a>
       </td>
       <td class="pre-wrapped">
-        Bot name must not be empty.
+        Service User name must not be empty.
       </td>
     </tr>
     <tr>
@@ -6483,7 +6483,7 @@
         <a id="ERR_NGROK_4110" href="/docs/errors/err_ngrok_4110">ERR_NGROK_4110</a>
       </td>
       <td class="pre-wrapped">
-        Bot name exceeds max length, <code>&lt;LENGTH&gt;</code> bytes, max: <code>&lt;MAX&gt;</code>.
+        Service User name exceeds max length, <code>&lt;LENGTH&gt;</code> bytes, max: <code>&lt;MAX&gt;</code>.
       </td>
     </tr>
     <tr>
@@ -6499,7 +6499,7 @@
         <a id="ERR_NGROK_4112" href="/docs/errors/err_ngrok_4112">ERR_NGROK_4112</a>
       </td>
       <td class="pre-wrapped">
-        Bot names must be unique within an account.
+        Service User names must be unique within an account.
       </td>
     </tr>
     <tr>
@@ -11578,6 +11578,14 @@
       </td>
       <td class="pre-wrapped">
         You've reached the maximum number of secrets (<code>&lt;MAX&gt;</code>) allowed for vault <code>&lt;VID&gt;</code> under your current plan. To increase your limit, please upgrade your plan or contact support.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a id="ERR_NGROK_24008" href="/docs/errors/err_ngrok_24008">ERR_NGROK_24008</a>
+      </td>
+      <td class="pre-wrapped">
+        Required parameter 'VaultID' is missing.
       </td>
     </tr>
     <tr>
